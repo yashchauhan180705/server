@@ -1,0 +1,12 @@
+node_modules/
+.env
+uploads/
+debug-mongo.js
+*.log
+.DS_Store
+atlas_uri.txt
+temp-server.pid
+temp-server-*.log
+test_*.txt
+test_results.json
+errors.txt
